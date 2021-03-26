@@ -1,5 +1,5 @@
 
-data <- read.csv("E:/Assignment_4/HwDataSet.csv")
+data <- read.csv("C:/Users/Vinay/Documents/GitHub/RProgrammingAssignments/HwDataSet.csv")
 
 data1960 = data[data$Year==1960,]
 data2013 = data[data$Year==2013,]
